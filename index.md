@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Profil
 
 You can use the [editor on GitHub](https://github.com/gitasonia98/example_profil/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
